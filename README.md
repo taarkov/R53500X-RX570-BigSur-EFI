@@ -1,0 +1,1 @@
+# Ryzen-BigSur-EFI
